@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Candidate in Computer Science, 2013-Present"
+  course = "PhD Candidate in Computer Science and Engineering, 2013-Present"
   institution = "IIIT Hyderabad"
   
 
