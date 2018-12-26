@@ -7,7 +7,7 @@ title = "Experience"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 8
+weight = 30
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,27 +19,30 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Assistant"
+  company = "IIIT Hyderabad"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Hyderabad"
+  date_start = "2012-01-01"
   date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  description = ""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Faculty Associate"
+  company = "Amrita School of Engineering"
+  company_url = "https://www.amrita.edu/"
+  location = "Coimbatore"
+  date_start = "2011-06-01"
+  date_end = "2011-12-20"
+  description = ""
+
+[[experience]]
+  title = "Technical Associate"
+  company = "Tech Mahindra Limited"
+  company_url = "https://www.techmahindra.com"
+  location = "Pune"
+  date_start = "2007-06-30"
+  date_end = "2009-06-30"
+  description = ""
 
 +++
