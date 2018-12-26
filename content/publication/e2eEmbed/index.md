@@ -21,6 +21,8 @@ publication_types = ["1"]
 publication = "Document Analysis Systems"
 publication_short = "In *DAS*"
 
+image_preview = "/img/e2eEmbed.png"
+
 # Abstract and optional shortened version.
 abstract = ""
 abstract_short = ""

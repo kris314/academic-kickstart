@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD Candidate in Computer Science and Engineering, 2013-Present"
+  course = "PhD Candidate in Computer Vision, 2013-Present"
   institution = "IIIT Hyderabad"
   
 
@@ -34,7 +34,7 @@ weight = 5
  
 +++
 
-# Biography
-I am a PhD student at [CVIT](http://cvit.iiit.ac.in/), [IIIT Hyderabad](http://iiit.ac.in/), working under the supervision of [Prof. C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/). My doctoral research focuses on the problem of information retrieval from scanned handwritten and printed document image collections. 
+# About Me
+I am a PhD candidate at [CVIT](http://cvit.iiit.ac.in/), [IIIT Hyderabad](http://iiit.ac.in/), working under the supervision of [Prof. C.V. Jawahar](https://faculty.iiit.ac.in/~jawahar/). My doctoral research focuses on the problem of information retrieval from scanned handwritten and printed document image collections. 
 
 I am currently a recipient of Alexa Graduate Fellowship (2018-2019). Previously I was a TCS research fellow. 
